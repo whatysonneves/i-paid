@@ -1,7 +1,7 @@
 <?php
 
 /**
- * WnIPaid (https://github.com/whatysonneves/i-paid)
+ * WnIPaid v1.0 (https://github.com/whatysonneves/i-paid)
  * Developed by Whatyson Neves <contato@whatysonneves.com>
  * 
  * Este arquivo é um conceito, você deve implementa-lo de acordo com seu projeto

@@ -1,6 +1,6 @@
 /*!
  * 
- * WnIPaidOk (https://github.com/whatysonneves/i-paid)
+ * WnIPaid v1.0 (https://github.com/whatysonneves/i-paid)
  * Developed by Whatyson Neves <contato@whatysonneves.com>
  * 
  */
