@@ -81,12 +81,7 @@ class WnIPaid
 	 */
 	protected function clients()
 	{
-		return [
-			"alpha.com" => true,
-			"bravo.com" => true,
-			"charlie.com" => false,
-			"example.com" => false,
-		];
+		return json_decode(file_get_contents("clients.json"), true);
 	}
 }
 
