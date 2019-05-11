@@ -1,4 +1,4 @@
 # CHANGELOG
 
 - Versão 1.0
--- Adicionado ao repositório o projeto inicial.
+	- Adicionado ao repositório o projeto inicial.
