@@ -43,4 +43,4 @@ Este código funciona como um JavaScript dinâmico, e alguns servidores/cliente 
 
 ## Créditos
 
-Agradeço ao [@DinhoPutz](https://twitter.com/DinhoPutz "@DinhoPutz") por me mostrar isso funcionando no site do [Mosteiro Pub](//mosteiropub.com.br/ "Mosteiro Pub").
+Agradeço ao [@DinhoPutz](https://twitter.com/DinhoPutz "@DinhoPutz") por me mostrar isso funcionando no site do [Mosteiro Pub](http://mosteiropub.com.br/ "Mosteiro Pub").
