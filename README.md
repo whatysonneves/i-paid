@@ -3,6 +3,8 @@
 Você é desenvolvedor e tem vários sites para gerenciar? Às vezes seus clientes demoram muito para te pagar? Que tal usar uma solução pouco ortodóxa para controlar isso?
 Eu desenvolvi um pequeno código em PHP e JavaScript para que você possa colocar um alerta no site do seu cliente quando ele estiver inadimplente :D
 
+[![Print de como é o alerta](/print.png "Print de como é o alerta")]
+
 ## Como funciona
 
 O código é responsável por gerar um arquivo JavaScript com uma mensagem caso o cliente esteja em atraso.
@@ -43,4 +45,4 @@ Este código funciona como um JavaScript dinâmico, e alguns servidores/cliente 
 
 ## Créditos
 
-Agradeço ao [@DinhoPutz](https://twitter.com/DinhoPutz "@DinhoPutz") por me mostrar isso funcionando no site do [Mosteiro Pub](http://mosteiropub.com.br/ "Mosteiro Pub").
+Agradeço ao [@DinhoPutz](https://twitter.com/DinhoPutz "@DinhoPutz") por me mostrar isso funcionando no site do [Mosteiro Pub](//mosteiropub.com.br/ "Mosteiro Pub").
