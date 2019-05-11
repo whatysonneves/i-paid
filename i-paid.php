@@ -16,7 +16,7 @@ class WnIPaid
 	public function run()
 	{
 		http_response_code(200);
-		header("Content-Type: application/javascript; Charset=UTF-8");
+		header("Content-Type: text/javascript; Charset=UTF-8");
 		$response = file_get_contents($this->getScript());
 		return exit($response);
 	}
